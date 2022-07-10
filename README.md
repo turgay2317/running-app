@@ -12,6 +12,7 @@ I used <b>MVVM</b> architecture and <b>Realm, MapKit, Localize-Swift</b> technol
   <li>MapKit</li>
   <li>Realm</li>
   <li>Timer, calculating kcal and meter</li>
+  <li>Multi device support (Many screen sizes)</li>
 </ul>
 
 </p>
