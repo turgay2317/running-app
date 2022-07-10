@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  RunnerRunner
+
+  Created by Turgay Ceylan on 10.07.2022.
+  
+*/
+
+"swipeText" = "Zum Starten nach rechts wischen";
+"swipeText2" = "Zum Beenden nach rechts wischen";
+"chooseText" = "Sie könnten die Sprache ändern";
+"historyText" = "Laufende Geschichte";
+

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  RunnerRunner
+
+  Created by Turgay Ceylan on 10.07.2022.
+  
+*/
+
+"swipeText" = "Başlamak için sağa kaydır";
+"swipeText2" = "Bitirmek için sağa kaydır";
+"chooseText" = "Dil değiştirebilirsiniz";
+"historyText" = "Koşu geçmişi";
